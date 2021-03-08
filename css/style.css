@@ -1,57 +1,69 @@
 * {
-    font-family: sans-serif;
+  font-family: sans-serif;
 }
 
 /* navbar */
 
-.nav-item{
-    margin-left: 5px;
+.nav-item {
+  margin-left: 5px;
 }
-
 
 /* konten */
-.sidebar-title{
-    margin-top: 18px;
-    text-align: center;
+.sidebar-title {
+  margin-top: 18px;
+  text-align: center;
 }
 
-
-.sidebar{
-    margin-top: 30px;
+.sidebar {
+  margin-top: 30px;
 }
 
-.list-color a{
-    color: blue;
+.list-color a {
+  color: blue;
 }
 
-.sosial a i{
-    font-size: 30px;
-    color: black;
+.sosial a i {
+  font-size: 30px;
+  color: black;
 }
 
-.berita{
-     background-color: #e1e1e1;
+.berita {
+  background-color: #e1e1e1;
 }
 
-#img-post{
-    float: left;
-    width: 250px;
-    margin-right: 15px;
+#img-post {
+  float: left;
+  width: 250px;
+  margin-right: 15px;
 }
 
 /* form */
 
-.form-container{
-    padding: 30px;
-    margin-top: 5vh;
-    margin-bottom: 5vh;
-    border-radius: 10px;
-    box-shadow: 0px 0px 10px 0px #000;
+.form-container {
+  padding: 30px;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px #000;
 }
 
-.form-container a{
-    color: black;
+.form-container a {
+  color: black;
 }
 
+/* box di tugas3.php */
 
+.container-margin {
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+}
 
+.box-container {
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px #000;
+}
+
+.height-container {
+  height: 47vh;
+}
